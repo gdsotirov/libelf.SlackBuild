@@ -19,10 +19,10 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: libelf.SlackBuild,v 1.1 2014/04/27 11:02:07 gsotirov Exp $
+# $Id: libelf.SlackBuild,v 1.2 2014/04/27 11:42:10 gsotirov Exp $
 #
 
-. ../slack-package.conf
+. ../../slack-package.conf
 
 NAME=libelf
 VERSION=0.8.10
