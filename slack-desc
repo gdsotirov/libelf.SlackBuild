@@ -9,4 +9,4 @@ libelf: it. It was meant primarily for porting SVR4 applications to other
 libelf: operating systems, but can also be used as the basis for new
 libelf: applications (and as a light-weight alternative to libbfd).
 libelf:
-libelf: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libelf: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
